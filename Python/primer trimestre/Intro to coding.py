@@ -1,0 +1,5 @@
+print("me llamo yireh") 
+print("voy en 9D") 
+print("mi comida favorita es la pasta") 
+print("soy bailarina de ballet")
+print("hola mundo") 
